@@ -1,6 +1,8 @@
 
 # Video Games Success Prediction
 
+# For detailed documentation and further insights into the project, please visit the [GitBook](https://dg-ai.gitbook.io/video-games-success-prediction).
+
 ## Project Overview
 This project aims to predict the success of video games based on various features like genre, platform, publisher, and sales data. It uses machine learning techniques to analyze the dataset and predict a game's success. The notebook `df_an.ipynb` explores and preprocesses the data, building predictive models.
 
@@ -18,9 +20,6 @@ The `df_an.ipynb` Jupyter notebook includes the following:
 - **Data loading and exploration**: Exploring the dataset and visualizing key trends.
 - **Data cleaning**: Handling missing values, duplicates, and preprocessing data for modeling.
 - **Modeling**: Applying machine learning algorithms to predict game success.
-
-## GitBook Documentation
-For detailed documentation and further insights into the project, please visit the [GitBook](https://dg-ai.gitbook.io/video-games-success-prediction).
 
 ## Installation & Usage
 
